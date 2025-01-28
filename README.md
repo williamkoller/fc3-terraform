@@ -2,7 +2,7 @@
 
 ## Terraform
 
-### Terraform é uma ferramenta de infraestrutura como código (IaC) criada pela HashiCorp. Ela permite que você defina e provisiona infraestrutura através de arquivos de configuração legíveis e versionáveis. Aqui estão alguns conceitos básicos para você começar:
+Terraform é uma ferramenta de infraestrutura como código (IaC) criada pela HashiCorp. Ela permite que você defina e provisiona infraestrutura através de arquivos de configuração legíveis e versionáveis. Aqui estão alguns conceitos básicos para você começar:
 
 1. Arquivos de Configuração
    Os arquivos de configuração do Terraform geralmente têm a extensão .tf e são usados para definir os recursos de infraestrutura. Estes arquivos são escritos em HashiCorp Configuration Language (HCL), que é uma linguagem declarativa.
