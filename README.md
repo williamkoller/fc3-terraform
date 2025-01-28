@@ -1,6 +1,6 @@
 # Full Cycle 3
 
-## Terraform
+## IAC (Infrastructure As Code) - Terraform
 
 Terraform é uma ferramenta de infraestrutura como código (IaC) criada pela HashiCorp. Ela permite que você defina e provisiona infraestrutura através de arquivos de configuração legíveis e versionáveis. Aqui estão alguns conceitos básicos para você começar:
 
