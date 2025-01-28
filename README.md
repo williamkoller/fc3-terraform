@@ -91,3 +91,11 @@ output "instance_id" {
   value = aws_instance.example.id
 }
 ```
+
+# Conceitos de VPC na AWS
+
+<p align="center">
+  <a href="">
+    <img src="./resources/vpc.drawio.png">
+  </a>
+</p>
