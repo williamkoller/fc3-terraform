@@ -49,6 +49,7 @@ resource "aws_eks_cluster" "cluster" {
   name = "${var.prefix}-${var.cluster_name}"
   role_arn = aws_iam_role.cluster.arn
   enabled_cluster_log_types = ["api","audit"]
+  version = "1.32"
 
   vpc_config {
     subnet_ids = aws_subnet.subnets[*].id
